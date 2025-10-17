@@ -1,0 +1,1 @@
+Bu program, "Süleyman" ismimi ASCII karakterleriyle ekrana çizer.
