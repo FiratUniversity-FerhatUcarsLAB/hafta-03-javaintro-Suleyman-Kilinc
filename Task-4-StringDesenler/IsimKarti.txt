@@ -1,0 +1,1 @@
+Bu program, verilen kişisel bilgileri düzenli ve okunaklı bir formatta ekrana yazdır
