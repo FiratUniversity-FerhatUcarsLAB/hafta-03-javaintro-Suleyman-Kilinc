@@ -1,0 +1,1 @@
+Bu program, 2'nin 1'den 10'a kadar olan sayılarla çarpımını gösteren klasik bir çarpım tablosu oluşturur.
