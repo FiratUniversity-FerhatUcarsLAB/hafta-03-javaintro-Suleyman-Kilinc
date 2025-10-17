@@ -1,0 +1,1 @@
+Bu program, verilen bir para miktarını en az sayıda banknot kullanarak nasıl parçalayacağını hesaplar.
