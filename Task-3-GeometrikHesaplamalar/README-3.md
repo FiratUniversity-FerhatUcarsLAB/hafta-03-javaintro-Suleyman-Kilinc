@@ -1,0 +1,1 @@
+Bu program, üç kenar uzunluğu verilen bir üçgenin alanını Heron formülünü kullanarak hesaplar. Math.sqrt() fonksiyonu karekök almak için kullanılır.
