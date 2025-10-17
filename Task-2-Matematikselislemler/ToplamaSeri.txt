@@ -1,0 +1,2 @@
+
+Bu program, 1'den 9'a kadar olan sayıları direkt olarak toplayıp sonucunu ekrana yazdırır.
