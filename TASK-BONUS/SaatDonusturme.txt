@@ -1,0 +1,1 @@
+Bu program, toplam saniye olarak verilen bir süreyi "saat:dakika:saniye" formatına çevirir. Burada mod alma (%) ve tam sayı bölmesi (/) operatörleri kilit rol oynar.
