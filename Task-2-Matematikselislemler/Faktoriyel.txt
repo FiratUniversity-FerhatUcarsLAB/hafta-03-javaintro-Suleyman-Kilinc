@@ -1,0 +1,1 @@
+Bu program, 5 faktöriyelin hesaplanma sürecini (ara adımları) metin olarak gösterir ve ardından işlemin sonucunu hesaplayıp yazdırır.
