@@ -1,0 +1,1 @@
+Bu program, belirli mil değerlerini (1, 5, 10, 20, 50) kilometreye çevirir ve bir tablo formatında sunar.
