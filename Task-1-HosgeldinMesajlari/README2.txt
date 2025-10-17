@@ -1,1 +1,0 @@
-JavaDeseni.java: Bu program, System.out.println() komutları ve karakterler arası boşluk hizalaması kullanılarak ekrana "JAVA" kelimesini oluşturan dört satırlık basit bir desen çizer.
