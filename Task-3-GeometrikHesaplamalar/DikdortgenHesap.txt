@@ -1,0 +1,1 @@
+Bu program, en ve boy değerleri verilen bir dikdörtgenin alanını ve çevresini hesapla
