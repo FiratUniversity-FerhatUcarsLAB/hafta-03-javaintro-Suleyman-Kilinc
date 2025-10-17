@@ -1,0 +1,1 @@
+BesKereTekrar.java: Bu program, döngü yapısı kullanılmadan, System.out.println() komutunun 5 defa art arda kullanılmasıyla "Java’ya Hoş Geldiniz" mesajını konsola 5 ayrı satırda yazdırır.
