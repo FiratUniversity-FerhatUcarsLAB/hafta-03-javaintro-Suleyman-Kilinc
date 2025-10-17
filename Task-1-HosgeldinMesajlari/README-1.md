@@ -1,1 +1,5 @@
+İsim: Süleyman Kılınç
+Öğrenci No: 250541031
+
 Bu görev, Java programlama dilinin temel söz dizimini (syntax) kullanarak konsola basit metin çıktıları vermeyi amaçlamaktadır. Her bir program, System.out.println() komutunun kullanımını pekiştirmek için farklı bir mesajı ekrana yazdırmaktadır.
+
