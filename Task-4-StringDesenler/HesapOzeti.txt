@@ -1,0 +1,1 @@
+Bu program, basit bir alışveriş listesini ürün, miktar ve fiyat bilgileriyle birlikte düzenli bir tablo formatında ekrana yazdırır.
